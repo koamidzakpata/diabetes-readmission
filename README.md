@@ -54,10 +54,9 @@ données brutes → EDA → Preprocessing → Modélisation → Interprétabilit
 - 📊 Plus un patient a de **médicaments**, plus son risque de réadmission est élevé
 - 🏆 Le **Random Forest** atteint 91% d'accuracy et 0.95 d'AUC-ROC
 
----
-
 ## 📁 Structure du Projet
 
+```
 diabetes-readmission/
 ├── data/
 │   ├── raw/                    ← dataset original
@@ -65,13 +64,12 @@ diabetes-readmission/
 ├── notebooks/
 │   ├── 01_EDA.ipynb
 │   ├── 02_preprocessing.ipynb
-│   ├── 03_modeling.ipynb
+│   └── 03_modeling.ipynb
 ├── reports/
 │   └── figures/                ← visualisations
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## 🚀 Installation
 
