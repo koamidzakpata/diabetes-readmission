@@ -104,5 +104,5 @@ pip install -r requirements.txt
 
 ## 👤 Auteur
 **DZAKPATA Koami Junior**
-- LinkedIn : [linkedin.com/in/dzakpata-junior](https://linkedin.com/in/dzakpata-junior)
+- LinkedIn : [linkedin.com/in/dzakpata-junior-8ab611276](https://linkedin.com/in/dzakpata-junior-8ab611276)
 - GitHub : [github.com/koamidzakpata](https://github.com/koamidzakpata)
